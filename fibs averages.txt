@@ -1,0 +1,52 @@
+treadmilling zero 100 fib , avg after 25 - 8.04
+
+treadmilling point 5 100 fib, avg after 25 - 8.04
+
+treadmilling one 100 fib , avg after 25 - 8.00
+
+treadmilling two 100 fib , avg after 25 - 7.65
+
+treadmilling four 100 fib , avg after 25 - 8.58
+
+treadmilling eight 100 fib , avg after 25 - 7.99
+
+
+
+
+treadmilling zero 1000 fib , avg after 25 - 56.63
+
+treadmilling point 5 1000 fib , avg after 25 - 57.14
+
+treadmilling one 1000 fib , avg after 25 - 57.32
+
+treadmilling two 1000 fib , avg after 25 - 57.22
+
+treadmilling four 1000 fib , avg after 25 - 57.14
+
+treadmilling eight 1000 fib, avg after 25 - 59.94
+
+
+% Sample data for Sample 1 (Replace these with your actual data)
+xDataSample1 = [0, 0.5, 1, 2, 4, 8];
+yDataSample1 = [56.53, 57.14, 57.32, 57.22, 57.14, 59.94];
+errorBarsSample1 = [0.4, 0.12, 0.24, 0.3, 0.2, 0.2];
+
+% Sample data for Sample 2 (Replace these with your actual data)
+xDataSample2 = [0, 0.5, 1, 2, 4, 8];
+yDataSample2 = [53.60, 54.41, 57.18, 56.33, 55.57, 57.47];
+errorBarsSample2 = [0.25, 0.15, 0.3, 0.2, 0.35, 0.1];
+
+
+
+
+% Sample data for Sample 1 (Replace these with your actual data)
+xDataSample1 = [0, 0.5, 1, 2, 4, 8];
+yDataSample1 = [8.04, 8.04, 8, 7.65, 8.58, 7.99];
+errorBarsSample1 = [0.4, 0.12, 0.24, 0.3, 0.2, 0.2];
+
+% Sample data for Sample 2 (Replace these with your actual data)
+xDataSample2 = [0, 0.5, 1, 2, 4, 8];
+yDataSample2 = [6.79, 7.33, 8.24, 7.66, 7.55, 7.08];
+errorBarsSample2 = [0.2, 0.15, 0.3, 0.2, 0.35, 0.1];
+
+
